@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="title_home">Home</string>
+    <string name="title_leaderboard">Leaderboard</string>
+    <string name="leaderboard">&#x0020;&#x0020;&#x0020;Leaderboard</string>
+    <string name="title_setting">Setting</string>
+    <string name="username">Username</string>
+    <string name="pwd">Password</string>
+    <string name="pwd_old">Old Password</string>
+    <string name="pwd_new">New Password</string>
+    <string name="dob">Date of Birth</string>
+    <string name="location">Location</string>
+    <string name="studentid">Student ID</string>
+    <string name="continent">continent</string>
+    <string name="country">country</string>
+    <string name="city">city</string>\
+    <string name="account">Account</string>
+    <string name="logout">LOG OUT</string>
+    <string name="classes">Class</string>
+    <string name="link">Link to App</string>
+    <string name="username_app">your username</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Confirm Password</string>
+    <string name="login">LOG IN</string>
+    <string name="save">SAVE</string>
+    <string name="visitor">visitor</string>
+    <string name ="instruction">*The initial password is date of birth : YYYYMMDD</string>
+    <string name="signup">SIGN UP</string>
+    <string name="done">DONE</string>
+    <string name="duolingo">Log in with Duolingo</string>
+    <string name="memrise">Log in with Memrise</string>
+    <string name="app">Create an account of DEMO</string>
+    <string name="create">Create Account</string>
+    <string name="binding">Select the app you are using:</string>
+    <string name="title_activity_ranking">Leaderboard</string>
+    <string name="title_activity_sign">Sign in</string>
+
+    <string-array name="spin_time">
+        <item>this week</item>
+        <item>this month</item>
+        <item>all time</item>
+    </string-array>
+    <string-array name="spin_app">
+        <item>Duolingo</item>
+        <item>Memrise</item>
+        <item>All</item>
+    </string-array>
+    <string-array name="spin_timezone">
+        <item>UTC</item>
+        <item>US/Pacific</item>
+        <item>US/Mountain</item>
+        <item>US/Hawaii</item>
+        <item>US/Eastern</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_start">startActivity</string>
+</resources>
